@@ -6,7 +6,7 @@
 
         <div style="display: flex; align-items: center;">
             <!-- Image on the left -->
-            <img src="\images\jahidhsanto.jpg" alt="Jahid Hassan Santo" style="width: 150px; margin-right: 20px; object-fit: cover;" />
+            <img src="\images\jahidhsanto.jpg" alt="Jahid Hassan Santo" style="width: 200px; margin-right: 20px; object-fit: cover;" />
 
             <!-- Contact Info on the right -->
             <div>
@@ -30,8 +30,8 @@
                 <div>
                     <strong>Address:</strong>
                     <address>
-                        One Microsoft Way<br />
-                        Redmond, WA 98052-6399
+                        Dhaka<br />
+                        Bangladesh
                     </address>
                 </div>
 
