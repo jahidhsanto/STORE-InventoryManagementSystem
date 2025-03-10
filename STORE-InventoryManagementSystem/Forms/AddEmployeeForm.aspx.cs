@@ -55,6 +55,13 @@ namespace STORE_InventoryManagementSystem.Forms
                         // Example: Store in database, display a message, etc.
 
                         Response.Write("<script>alert('Form submitted successfully!');</script>");
+
+                        txtEmployeeID.Text = null;
+                        txtEmployeeName.Text = null;
+                        ddlDepartment.Text = null;
+                        ddlZone.Text = null;
+                        txtContactNumber.Text = null;
+                        txtEmail.Text = null;
                     }
                     catch (Exception ex)
                     {
